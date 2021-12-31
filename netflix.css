@@ -1,0 +1,170 @@
+.hello{
+    height: 700px;
+    width: 1509px;
+  background-image: url("hello.png");
+}
+.yoo
+{ position: relative; top: -842px; 
+    left: 970px;
+    bottom: 80px;
+}
+.logo{
+
+    position: relative; top: -5px; 
+    
+}
+body{
+    background-color: black
+}
+.list{
+  color: aliceblue;
+  margin: 0px;
+  padding: 0px;
+ 
+}
+.rowhead{
+    color: aliceblue;
+    font-size: xx-large;
+    margin: 0px;
+    padding-block-end: 0px;
+}
+
+
+.rowhead:hover{
+    transform: scale(1.08);
+}
+.a:hover{
+    transform: scale(1.08);
+}
+.b:hover{
+    transform: scale(1.08);
+}
+.c:hover{
+    transform: scale(1.08);
+}
+.d:hover{
+    transform: scale(1.08);
+}
+.e:hover{
+    transform: scale(1.08);
+}
+.f:hover{
+    transform: scale(1.08);
+}
+.g:hover{
+    transform: scale(1.08);
+}
+.h:hover{
+    transform: scale(1.08);
+}
+.i:hover{
+    transform: scale(1.08);
+}
+.second{
+    font-size: xx-large;
+    color: aliceblue;
+}
+.rtukota:hover{
+
+    transform: scale(1.08);
+}
+.third{
+    font-size: xx-large;
+    color: aliceblue;
+}
+.pathak:hover{
+    transform:scale(1.08);
+}
+.fourth{
+    font-size: xx-large;
+    color: aliceblue;
+}
+.ortus:hover {
+ transform: scale(1.08);
+}
+.ten{
+    font-size: xx-large;
+    color: aliceblue;
+}
+.lilac:hover{
+    transform: scale(1.08);
+}
+.lila{
+    height: 400px;
+    width: 238px;
+}
+.lila:hover{
+    transform: scale(1.08);
+}
+.gh{
+    height: 392px;
+    width: 387px;
+}
+.gh:hover{
+    transform: scale(1.08);
+}
+.li{
+
+    height: 392px;
+    width: 387px;
+}
+.li:hover{
+    transform: scale(1.08);
+}
+.banner_photos{
+    background-size: cover;
+    background-image: url(Images/sqg.png);
+    height: 844px;
+    width: 1508px;
+    color: aliceblue;
+    
+}
+.button{
+    margin-left: 30px;
+    padding-top: 140px;
+    height: 190px;
+
+}
+.write{
+   width: 45rem;
+   line-height: 1.3;
+   padding-top: 1rem;
+   font-size: 1.8rem;
+  
+   height: 180px;
+}
+.buttonplay{
+
+    cursor: pointer;
+    columns: #fff;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 0.2vw;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgba(219, 200, 200, 0.5);
+  align-content: center;
+   
+}
+
+.buttonplay:hover{
+    color: #000;
+    background-color: #e6e6e6;
+    transition: all 0.2s;
+}
+.banner_fadebottom{
+margin-top: 288px;
+height: 19.4rem;
+background-image: linear-gradient(180deg,transparent,rgba(37,37,37,0.61),#111);
+}
+.op{
+    color: white;
+    font-size: xxlarge;
+}
+.parth{
+    color: white;
+}
